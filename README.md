@@ -1,6 +1,6 @@
 # This project is an interactive Super Store Sales Dashboard created using Microsoft Excel.
 
-# The dashboard provides a clear and visual analysis of sales performance across regions, categories, cities, ship modes, and time (year \& month).
+# The dashboard provides a clear and visual analysis of sales performance across regions, categories, cities, ship modes, and time (year & month).
 
 # 
 
@@ -74,7 +74,7 @@
 
 # 
 
-# 🛠 Tools \& Techniques Used
+# 🛠 Tools & Techniques Used
 
 # 
 
@@ -90,15 +90,15 @@
 
 # 
 
-# Slicers (Region \& Year)
+# Slicers (Region & Year)
 
 # 
 
-# Data Cleaning \& Formatting
+# Data Cleaning & Formatting
 
 # 
 
-# Dashboard Design \& Visualization
+# Dashboard Design & Visualization
 
 # 
 
@@ -130,7 +130,7 @@
 
 # 
 
-# Sales \& Quantity
+# Sales & Quantity
 
 # 
 
