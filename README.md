@@ -28,7 +28,7 @@
 
 # 
 
-# Provide an easy-to-use interactive dashboard for decision making
+# Provide an easy-to-use interactive dashboard for decision making.
 
 # 
 
