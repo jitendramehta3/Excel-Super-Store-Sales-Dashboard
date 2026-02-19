@@ -174,5 +174,5 @@
 
 # 
 
-# Explore insights from different charts and KPIs
+# Explore insights from different charts and KPIs.
 
